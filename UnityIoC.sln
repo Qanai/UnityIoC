@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Console", "Unity.Console\Unity.Console.csproj", "{FCD96EFC-695A-4593-ABC5-84A823EEA38D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credit", "Credit\Credit.csproj", "{DE04F505-8B30-44E5-A5EB-70852CD6B639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FCD96EFC-695A-4593-ABC5-84A823EEA38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCD96EFC-695A-4593-ABC5-84A823EEA38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCD96EFC-695A-4593-ABC5-84A823EEA38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE04F505-8B30-44E5-A5EB-70852CD6B639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE04F505-8B30-44E5-A5EB-70852CD6B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE04F505-8B30-44E5-A5EB-70852CD6B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE04F505-8B30-44E5-A5EB-70852CD6B639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
