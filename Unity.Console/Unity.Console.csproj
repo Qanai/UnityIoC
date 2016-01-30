@@ -66,7 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Credit\Credit.csproj">
-      <Project>{de04f505-8b30-44e5-a5eb-70852cd6b639}</Project>
+      <Project>{1e5724a8-0686-4d06-bb8a-8d0c73ef7317}</Project>
       <Name>Credit</Name>
     </ProjectReference>
   </ItemGroup>
