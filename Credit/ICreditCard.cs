@@ -7,7 +7,7 @@ namespace Credit
 {
     public interface ICreditCard
     {
-        int ChargeCount { get; set; }
+        int ChargeCount { get; }
         string Charge();
     }
 }
