@@ -14,6 +14,8 @@ namespace Unity.Console
         {
             var container = new UnityContainer();
             container.RegisterType<ICreditCard, MasterCard>();
+            container.RegisterType<ICreditCard, MasterCard>(new InjectionProperty("ChargeCount", 5));
+            container.RegisterType<ICreditCard, MasterCard>("DefaultCard");
         }
     }
 }
