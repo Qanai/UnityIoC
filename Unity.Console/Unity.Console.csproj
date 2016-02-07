@@ -7,7 +7,7 @@
     <ProjectGuid>{FCD96EFC-695A-4593-ABC5-84A823EEA38D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Unity.Console</RootNamespace>
+    <RootNamespace>Unity.ConsoleApp</RootNamespace>
     <AssemblyName>Unity.Console</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
